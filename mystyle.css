@@ -1,0 +1,80 @@
+body {
+  background-color: black;
+  background-size: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+header {
+  background-color: black;
+  text-align: right;
+  height: 20px;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+a {
+  color: white;
+}
+.top {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  color: #e0f7f9;
+  font-family:sans-serif;
+  background-image: url("ocean.jpg");
+  background-size: 100% ;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 30pt;
+  font-family: verdana, sans-serif;
+  text-decoration: underline;
+  font-weight: bold;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  font-weight: bold;
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: georgia, serif;
+}
+.links {
+  text-align: center;
+  margin: 60px;
+}
+.links a {
+  margin: 50px 10px;
+  border: solid 5px white;
+  text-align: center;
+  padding: 30px;
+  color: white;
+  font-family: sans-serif;
+  text-decoration: underline;
+  text-align: center;
+}
+.safety {
+  background-color: grey;
+  color: black;
+  font-family: sans-serif;
+}
+.boat {
+  background-color: grey;
+  color: black;
+  font-family: sans-serif;
+}
+.video {
+  max-width: 100%;
+  width: 600px;
+  left: 0;
+  right:0;
+  margin:auto;
+}
